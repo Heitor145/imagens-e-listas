@@ -12,7 +12,7 @@ img {
 
 body {
     background-color: #ffff;
-    border: 3px solid black;
+    border: 2px solid black;
     margin-block: 14px;
     padding: 80px;
     border-radius: 24px;
@@ -21,4 +21,14 @@ body {
 
 ul , ol , h2{
     text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color:#333333;
+    
+
 }
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
