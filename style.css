@@ -46,3 +46,8 @@ div{
     background: var(--border-primary);
     margin-block: 4rem;
 }
+
+p{
+    color: #3cff00;
+    
+}
